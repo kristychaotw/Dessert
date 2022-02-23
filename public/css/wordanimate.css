@@ -1,0 +1,17 @@
+.lead{
+    width: 480px;
+    height: 225px;
+    background-image: url(../images/lead.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: 480px;
+}
+.lead:hover{
+    animation: animate-lead 2s steps(4) infinite;
+
+}
+
+@keyframes animate-lead {
+    0%   {background-position: 0 0;}
+    100% {background-position: 0 -900px;}
+  }

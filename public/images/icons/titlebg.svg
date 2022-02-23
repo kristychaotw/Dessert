@@ -1,0 +1,20 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_101_1333)">
+<path d="M15 10L15.449 11.382H16.9021L15.7265 12.2361L16.1756 13.618L15 12.7639L13.8244 13.618L14.2735 12.2361L13.0979 11.382H14.551L15 10Z" fill="#FBEADA"/>
+<path d="M23.6732 19.5035L24.926 20.2397L26.0132 19.2757L25.7002 20.6947L26.953 21.4309L25.5068 21.5717L25.1937 22.9906L24.6129 21.6587L23.1667 21.7995L24.254 20.8355L23.6732 19.5035Z" fill="#FBEADA"/>
+<circle cx="3.5" cy="15.5" r="0.5" fill="#C4C4C4"/>
+<circle cx="3.5" cy="15.5" r="0.5" fill="#FBEADA"/>
+<circle cx="9.5" cy="19.5" r="0.5" fill="#FBEADA"/>
+<circle cx="11.5" cy="4.5" r="0.5" fill="#FBEADA"/>
+<circle cx="3.5" cy="15.5" r="0.5" fill="#FBEADA"/>
+<rect x="3" y="4.39233" width="14.616" height="2.35485" rx="1.17743" transform="rotate(-49.133 3 4.39233)" fill="#FBEADA"/>
+<rect x="0.820068" y="36.9337" width="35.8645" height="2.35485" rx="1.17743" transform="rotate(-49.133 0.820068 36.9337)" fill="#FBEADA"/>
+<rect x="26.7252" y="20" width="5.71782" height="2.35485" rx="1.17743" transform="rotate(-49.133 26.7252 20)" fill="#FBEADA"/>
+<rect x="-6" y="23.1246" width="20" height="2.35485" rx="1.17743" transform="rotate(-49.133 -6 23.1246)" fill="#FBEADA"/>
+</g>
+<defs>
+<clipPath id="clip0_101_1333">
+<rect width="30" height="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>
