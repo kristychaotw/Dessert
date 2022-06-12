@@ -2,7 +2,7 @@
 
 
 ## About 休假中甜點工作室 On Vacances
-### 🚀 [休假中甜點工作室 On Vacances](https://kristychaotw.github.io/WeeklyVeggie/)
+### 🚀 [休假中甜點工作室 On Vacances](https://kristychaotw.github.io/Dessert/)
 
 
 ## Features
